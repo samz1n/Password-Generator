@@ -9,3 +9,5 @@ https://samz1n.github.io/Password-Generator/
 * Allow for the choice of numbers, special characters, lowercase and uppercae letters in the password.
 * When each prompt has been answered the input should be validated and at least one character type should be selected.
 * After each prompt has been answered then a password matching the criteria is generated and displayed on the page.
+
+<img src="./pwg.PNG"/>
